@@ -1,1 +1,1 @@
-Website: https://sucisetyoputri-tugas1.vecel.app
+Website: https://sucisetyoputri-tugas1.vercel.app/
